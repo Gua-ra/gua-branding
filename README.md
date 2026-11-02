@@ -25,4 +25,8 @@ Keep paths stable: renaming or moving a file breaks those references.
 
 ## License
 
-This repository has no license yet. The Gua name, logo and lobo-guará mark are the project's identity: do not use them in a way that implies endorsement or that could confuse people about what is official (see [gua.global/copyright](https://gua.global/copyright)).
+The assets in this repository are licensed under [CC BY 4.0](LICENSE). Credit Gua and link to [gua.global](https://gua.global) when you use them.
+
+The license covers copyright only. The Gua name, logo and lobo-guará mark are the project's identity: do not use them in a way that implies endorsement or that could confuse people about what is official (see [gua.global/copyright](https://gua.global/copyright)).
+
+The devices and app interfaces drawn in `mockups/` belong to their owners and are not covered by this license.
